@@ -77,7 +77,7 @@ PRODUCT_PACKAGES += \
     libchromatix_ov12a10_sunny_vince_snapshot \
     libchromatix_ov12a10_sunny_vince_video_4k \
     libchromatix_ov12a10_sunny_vince_zsl_preview_dw9763 \
-    libchromatix_ov12a10_sunny_vince_zsl_video_dw9763 \ 
+    libchromatix_ov12a10_sunny_vince_zsl_video_dw9763 \
     libchromatix_soft_light_auto_vince_ov5675_ofilm_cpp_hfr_120 \
     libchromatix_soft_light_auto_vince_ov5675_ofilm_cpp_hfr_60 \
     libchromatix_soft_light_auto_vince_ov5675_ofilm_cpp_hfr_90 \
@@ -109,7 +109,7 @@ PRODUCT_PACKAGES += \
     libchromatix_soft_light_auto_vince_ov5675_qtech_default_preview_3a \
     libchromatix_soft_light_auto_vince_ov5675_qtech_default_video \
     libchromatix_soft_light_auto_vince_ov5675_qtech_default_video_3a \
-    libchromatix_soft_light_auto_vince_ov5675_qtech_hfr_120 \ 
+    libchromatix_soft_light_auto_vince_ov5675_qtech_hfr_120 \
     libchromatix_soft_light_auto_vince_ov5675_qtech_hfr_120_3a \
     libchromatix_soft_light_auto_vince_ov5675_qtech_hfr_60 \
     libchromatix_soft_light_auto_vince_ov5675_qtech_hfr_60_3a \
@@ -134,7 +134,7 @@ PRODUCT_PACKAGES += \
     libchromatix_soft_light_vince_ov5675_ofilm_hfr_120_3a \
     libchromatix_soft_light_vince_ov5675_ofilm_hfr_60 \
     libchromatix_soft_light_vince_ov5675_ofilm_hfr_60_3a \
-    libchromatix_soft_light_vince_ov5675_ofilm_hfr_90 \ 
+    libchromatix_soft_light_vince_ov5675_ofilm_hfr_90 \
     libchromatix_soft_light_vince_ov5675_ofilm_hfr_90_3a \
     libchromatix_soft_light_vince_ov5675_ofilm_liveshot \
     libchromatix_soft_light_vince_ov5675_ofilm_preview \
@@ -240,7 +240,7 @@ PRODUCT_PACKAGES += \
     libmmcamera2_is \
     libmmcamera2_isp_modules \
     libmmcamera2_mct \
-    libmmcamera2_mct_shimlayer \ 
+    libmmcamera2_mct_shimlayer \
     libmmcamera2_pp_buf_mgr \
     libmmcamera2_pproc_modules \
     libmmcamera2_q3a_core \
